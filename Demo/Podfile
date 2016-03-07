@@ -1,0 +1,14 @@
+platform :ios, '7.0'
+pod 'ReactiveCocoa'
+pod 'pop', '~> 1.0', :inhibit_warnings => true
+pod 'TTTAttributedLabel', :inhibit_warnings => true
+pod 'XMPPFramework',  '3.6.5', :inhibit_warnings => true
+pod 'MarqueeLabel'
+pod 'YYKit'
+pod 'MBProgressHUD'
+pod 'Masonry'
+pod 'DACircularProgress'
+pod 'ADLivelyTableView'
+pod 'DHSmartScreenshot'
+pod 'MIHCrypto', :inhibit_warnings => true
+pod 'MWPhotoBrowser', :inhibit_warnings => true
