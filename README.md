@@ -31,7 +31,7 @@ Requirements
 This library requires a deployment target of iOS 6.0 or greater.
 
 ## Author
-Ma Chao, mc@imegatron.com
+Chao Ma, mc@imegatron.com
 
 ## License
 MCKit is available under the MIT license. See the LICENSE file for more info.
